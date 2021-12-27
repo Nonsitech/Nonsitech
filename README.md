@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nonsitech
-- 👀 I’m interested in ...learing how to code and bbe a developer
+- 👀 I’m interested in ...learing how to code and be a developer.
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...projects 
 - 📫 How to reach me ...
