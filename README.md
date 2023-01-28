@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pearl @Nonsitech 
-- 👀 I am passionate about System and cloud Engineering fullstack from South Africa
-     - i will be participating in a program in Software Engineering with ALX Africa next year january.
+- 👀 I am passionate about Software Engineering 
+     - i am participating in a program in Software Engineering with ALX Africa.
 - 💞️ I’m looking to collaborate on ...projects and start adding my projects as i go 
 - 📫 How to reach me ... samleeu01@gmail.com 
 
